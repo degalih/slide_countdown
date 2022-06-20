@@ -29,7 +29,7 @@ class SlideCountdown extends StatefulWidget {
     this.fade = false,
     this.decoration = const BoxDecoration(
       borderRadius: BorderRadius.all(Radius.circular(20)),
-      color: Color(0xFFF23333),
+      color: Color(0xFF629C59),
     ),
     this.curve = Curves.easeOut,
     this.countUp = false,
